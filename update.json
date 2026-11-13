@@ -1,0 +1,10 @@
+{
+  "versionCode": 18,
+  "versionName": "1.5.0",
+  "apk": "Gipfelzwerg.apk",
+  "sha256": "709ddf3d4288dde51db890abb58be397f27fbffe1f0f82b3e60e1331f62094f9",
+  "notes": [
+    "Die App sucht jetzt selbst nach neuen Versionen"
+  ],
+  "datum": "13.11.2026"
+}
