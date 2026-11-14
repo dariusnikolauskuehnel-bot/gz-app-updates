@@ -1,8 +1,8 @@
 {
-  "versionName": "1.5.0",
-  "versionCode": 6,
+  "versionName": "1.6.0",
+  "versionCode": 7,
   "date": "2026-11-14",
   "apk": "https://raw.githubusercontent.com/dariusnikolauskuehnel-bot/gz-app-updates/main/merkbuch/Sigis-Zettel-Sheriff.apk",
-  "apkSha256": "d908e1193de5b9b310e10ce79e0a93703dbdd9b389644471204f566a7d829bd8",
-  "notes": "Neu: „Meine KI“. Du wählst eine KI deiner Wahl, zum Beispiel ChatGPT oder Gemini, und öffnest sie mit einem Fingertipp außerhalb der App. Dafür brauchst du keinen Schlüssel und kein Konto. Wenn dir etwas fehlt oder nicht gefällt, melde dich über „Mehr“, „Rückmeldung per E-Mail senden“."
+  "apkSha256": "70e4721dc421d8c6139852b52f6014e855418a95fe5f2803ebb0fc51348e55ec",
+  "notes": "Neu: Reparaturen für dein Auto und dein Fahrrad, mit Werkstatt, Kosten und Garantie. Dein Fahrrad als eigener Eintrag mit Rahmennummer, Kaufdatum, Versicherung und nächster Wartung. Beides findest du im Paket „Auto und Unterwegs“. Wenn dir etwas fehlt oder nicht gefällt, melde dich über „Mehr“, „Rückmeldung per E-Mail senden“."
 }
