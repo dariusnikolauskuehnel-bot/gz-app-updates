@@ -1,10 +1,12 @@
 {
-  "versionCode": 18,
-  "versionName": "1.5.0",
+  "versionCode": 19,
+  "versionName": "1.5.1",
   "apk": "Gipfelzwerg.apk",
-  "sha256": "709ddf3d4288dde51db890abb58be397f27fbffe1f0f82b3e60e1331f62094f9",
+  "sha256": "9ab766dd0523c639227808fadef971789e49e2f9b4b62dc40d0da65b1310b32e",
   "notes": [
-    "Die App sucht jetzt selbst nach neuen Versionen"
+    "Neu: Ruhig-Modus mit gedämpften Farben für die Nacht (aus, nachts oder an).",
+    "Neu: Laufende Timer erscheinen auch auf dem Sperrbildschirm, mit Stopp-Taste (in den Einstellungen abschaltbar).",
+    "Neu: „Wie zuletzt“ übernimmt beim Eintragen die Angaben vom letzten Mal."
   ],
-  "datum": "13.11.2026"
+  "datum": "14.11.2026"
 }
