@@ -1,8 +1,8 @@
 {
-  "versionName": "1.6.0",
-  "versionCode": 7,
+  "versionName": "1.7.0",
+  "versionCode": 8,
   "date": "2026-11-14",
   "apk": "https://raw.githubusercontent.com/dariusnikolauskuehnel-bot/gz-app-updates/main/merkbuch/Sigis-Zettel-Sheriff.apk",
-  "apkSha256": "70e4721dc421d8c6139852b52f6014e855418a95fe5f2803ebb0fc51348e55ec",
-  "notes": "Neu: Reparaturen für dein Auto und dein Fahrrad, mit Werkstatt, Kosten und Garantie. Dein Fahrrad als eigener Eintrag mit Rahmennummer, Kaufdatum, Versicherung und nächster Wartung. Beides findest du im Paket „Auto und Unterwegs“. Wenn dir etwas fehlt oder nicht gefällt, melde dich über „Mehr“, „Rückmeldung per E-Mail senden“."
+  "apkSha256": "e096aa7e1667db3e31d063dcd365961fb58a4393a7fdb73d5bc5a047f9956087",
+  "notes": "Neu: Daten übertragen. Du holst Termine aus dem Google Kalender und Adressen aus Google Kontakte in die App, mit Erklärung in ganz einfachen Worten. Du kannst Termine und Adressen auch als Datei speichern. Geburtstage trägst du jetzt von Hand ein: Name, Tag und Monat, das Jahr ist freiwillig. Zu finden ganz unten im Kalender und unter „Mehr“, „Sicherung“. Wenn dir etwas fehlt oder nicht gefällt, melde dich über „Mehr“, „Rückmeldung per E-Mail senden“."
 }
