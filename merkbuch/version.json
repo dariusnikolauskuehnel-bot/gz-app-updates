@@ -1,8 +1,8 @@
 {
-  "versionName": "1.7.0",
-  "versionCode": 8,
+  "versionName": "1.8.0",
+  "versionCode": 9,
   "date": "2026-11-14",
   "apk": "https://raw.githubusercontent.com/dariusnikolauskuehnel-bot/gz-app-updates/main/merkbuch/Sigis-Zettel-Sheriff.apk",
-  "apkSha256": "e096aa7e1667db3e31d063dcd365961fb58a4393a7fdb73d5bc5a047f9956087",
-  "notes": "Neu: Daten übertragen. Du holst Termine aus dem Google Kalender und Adressen aus Google Kontakte in die App, mit Erklärung in ganz einfachen Worten. Du kannst Termine und Adressen auch als Datei speichern. Geburtstage trägst du jetzt von Hand ein: Name, Tag und Monat, das Jahr ist freiwillig. Zu finden ganz unten im Kalender und unter „Mehr“, „Sicherung“. Wenn dir etwas fehlt oder nicht gefällt, melde dich über „Mehr“, „Rückmeldung per E-Mail senden“."
+  "apkSha256": "fd8969f66801f032c3b82d3b2e3eb490dcdbd7a408a6d817a8ac1928dc78e89c",
+  "notes": "Neu: Vergangenes. Im Kalender gibt es jetzt den Knopf „Vergangenes“. Dort trägst du Tage ein, die schon vorbei sind, zum Beispiel einen Hochzeitstag oder einen Todestag. Die App erinnert dich jedes Jahr daran. Wenn dir etwas fehlt oder nicht gefällt, melde dich über „Mehr“, „Rückmeldung per E-Mail senden“."
 }
