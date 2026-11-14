@@ -1,14 +1,13 @@
 {
-  "versionCode": 20,
-  "versionName": "1.6.0",
+  "versionCode": 21,
+  "versionName": "1.6.1",
   "apk": "Gipfelzwerg.apk",
-  "sha256": "e6d61321498788d9bf239c9ae3d49cd62f51818fa2b243cb48bf53b22130dbd0",
+  "sha256": "561dd996d4ec9cdea27bc86d1b7cc4234bc31d20eecda6d1a8b71f10a76d1a6c",
   "notes": [
-    "Neu: Die App sucht beim Öffnen selbst nach neuen Versionen und bietet sie dir zum Installieren an. Du kannst auch jederzeit in den Einstellungen nach einem Update suchen.",
-    "Neu: „Ruhig-Modus“ für nachts – gedimmte, warme Farben, keine Bewegung und größere Tasten.",
-    "Neu: „Wie zuletzt“ beim Eintragen von Flasche, Brei, Mahlzeit und Aktivität – übernimmt die Angaben des letzten Eintrags mit einem Tipp.",
-    "Neu: Läuft ein Timer, zeigt das Handy eine Benachrichtigung mit Stopp-Knopf, auch bei gesperrtem Bildschirm. Gesperrt steht nur „Timer läuft“.",
-    "Der Timer-Knopf ist jetzt größer, und die Bewertungen zeigen Text statt Bildchen."
+    "Neu: Beim allerersten Öffnen fragt die App, ob dein Partner oder deine Partnerin sie schon nutzt. Dann übernimmst du alle Einträge sofort per QR-Code oder Sicherungsdatei.",
+    "Behoben: Bei großer Schrift oder kleinem Bildschirm sind Knöpfe, Kind-Auswahl und Umschalter jetzt sauber lesbar.",
+    "Verbessert: Alle Texte passen für alle Familien, ob verheiratet oder nicht.",
+    "Weiter dabei: Ruhig-Modus, Timer auf dem Sperrbildschirm und „Wie zuletzt“."
   ],
   "datum": "14.11.2026"
 }
