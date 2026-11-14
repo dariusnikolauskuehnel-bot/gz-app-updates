@@ -1,3 +1,3 @@
 # App-Updates
 
-Enthält nur `update.json` und die aktuelle APK. Keine persönlichen Daten.
+Enthält nur `update.json`, die aktuelle APK und das Windows-Programm.  Keine persönlichen Daten.
