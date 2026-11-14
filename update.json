@@ -1,12 +1,14 @@
 {
-  "versionCode": 19,
-  "versionName": "1.5.1",
+  "versionCode": 20,
+  "versionName": "1.6.0",
   "apk": "Gipfelzwerg.apk",
-  "sha256": "9ab766dd0523c639227808fadef971789e49e2f9b4b62dc40d0da65b1310b32e",
+  "sha256": "e6d61321498788d9bf239c9ae3d49cd62f51818fa2b243cb48bf53b22130dbd0",
   "notes": [
-    "Neu: Ruhig-Modus mit gedämpften Farben für die Nacht (aus, nachts oder an).",
-    "Neu: Laufende Timer erscheinen auch auf dem Sperrbildschirm, mit Stopp-Taste (in den Einstellungen abschaltbar).",
-    "Neu: „Wie zuletzt“ übernimmt beim Eintragen die Angaben vom letzten Mal."
+    "Neu: Die App sucht beim Öffnen selbst nach neuen Versionen und bietet sie dir zum Installieren an. Du kannst auch jederzeit in den Einstellungen nach einem Update suchen.",
+    "Neu: „Ruhig-Modus“ für nachts – gedimmte, warme Farben, keine Bewegung und größere Tasten.",
+    "Neu: „Wie zuletzt“ beim Eintragen von Flasche, Brei, Mahlzeit und Aktivität – übernimmt die Angaben des letzten Eintrags mit einem Tipp.",
+    "Neu: Läuft ein Timer, zeigt das Handy eine Benachrichtigung mit Stopp-Knopf, auch bei gesperrtem Bildschirm. Gesperrt steht nur „Timer läuft“.",
+    "Der Timer-Knopf ist jetzt größer, und die Bewertungen zeigen Text statt Bildchen."
   ],
   "datum": "14.11.2026"
 }
