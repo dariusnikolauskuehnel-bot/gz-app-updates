@@ -1,13 +1,16 @@
 {
-  "versionCode": 21,
-  "versionName": "1.6.1",
+  "versionCode": 25,
+  "versionName": "1.8.0",
   "apk": "Gipfelzwerg.apk",
-  "sha256": "561dd996d4ec9cdea27bc86d1b7cc4234bc31d20eecda6d1a8b71f10a76d1a6c",
+  "sha256": "4a8e31cb0c6b429041c21e917f64db3eb5d111bd85d0a6a2502fea52ef4ddd0c",
   "notes": [
-    "Neu: Beim allerersten Öffnen fragt die App, ob dein Partner oder deine Partnerin sie schon nutzt. Dann übernimmst du alle Einträge sofort per QR-Code oder Sicherungsdatei.",
-    "Behoben: Bei großer Schrift oder kleinem Bildschirm sind Knöpfe, Kind-Auswahl und Umschalter jetzt sauber lesbar.",
-    "Verbessert: Alle Texte passen für alle Familien, ob verheiratet oder nicht.",
-    "Weiter dabei: Ruhig-Modus, Timer auf dem Sperrbildschirm und „Wie zuletzt“."
+    "Neu unter Einstellungen: „Gemeinsamer Stand“. Ihr beide seht dieselben Einträge, auch laufende Timer, Änderungen und Löschungen. Das ist freiwillig und startet erst, wenn du zustimmst.",
+    "So funktioniert es: Ihr wählt beide denselben Ordner in eurer eigenen Cloud, zum Beispiel einen geteilten Google-Drive-Ordner. Die App nutzt keinen Server und kein Konto. Ausschalten geht jederzeit.",
+    "Neu: Die Kinderarztpraxis lässt sich mit Name, Hinweis und bis zu drei Standorten eintragen. Der Standort, zu dem ihr meistens geht, wählst du oben. Kinderarzt-Termine bekommen seine Adresse.",
+    "Deine bisherige Praxis bleibt erhalten: Sie wird als erster Standort übernommen. Der Übergabezettel und die Suche kennen die neuen Standorte.",
+    "Mehr Schutz bei unlesbaren oder fehlerhaften Daten: Ein ungültiges Geburtsdatum führt jetzt zurück in die Einrichtung, statt leere Seiten zu zeigen. Alte Sicherheitskopien räumt die App nach 60 Tagen selbst auf.",
+    "Anleitung, Hilfe und Datenschutzerklärung erklären die neuen Funktionen.",
+    "Zum Ausprobieren: Den Gemeinsamen Stand konnten wir nur mit einem nachgebildeten Ordner testen. Bitte probiert ihn zu zweit mit einem echten geteilten Cloud-Ordner aus: einen Eintrag anlegen, „Jetzt abgleichen“ tippen und auf dem anderen Handy nachsehen. Prüft auch einen laufenden Timer und das Löschen eines Eintrags."
   ],
   "datum": "14.11.2026"
 }
