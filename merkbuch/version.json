@@ -1,8 +1,8 @@
 {
-  "versionName": "1.8.0",
-  "versionCode": 9,
-  "date": "2026-11-14",
+  "versionName": "1.8.1",
+  "versionCode": 10,
+  "date": "2026-11-15",
   "apk": "https://raw.githubusercontent.com/dariusnikolauskuehnel-bot/gz-app-updates/main/merkbuch/Sigis-Zettel-Sheriff.apk",
-  "apkSha256": "fd8969f66801f032c3b82d3b2e3eb490dcdbd7a408a6d817a8ac1928dc78e89c",
-  "notes": "Neu: Vergangenes. Im Kalender gibt es jetzt den Knopf „Vergangenes“. Dort trägst du Tage ein, die schon vorbei sind, zum Beispiel einen Hochzeitstag oder einen Todestag. Die App erinnert dich jedes Jahr daran. Wenn dir etwas fehlt oder nicht gefällt, melde dich über „Mehr“, „Rückmeldung per E-Mail senden“."
+  "apkSha256": "1712cb2bf617c6fb2d70908f1ae0c4f50e610f91209bbf17f63e676f325887f5",
+  "notes": "Kleine Verbesserungen: Der Kalender ist aufgeräumter, und Knöpfe, die doppelt erschienen, gibt es nur noch einmal. Neu seit der letzten Version: Daten übertragen (Google Kalender), Geburtstag von Hand eintragen und Vergangenes (Hochzeitstag, Todestag). Wenn dir etwas fehlt oder nicht gefällt, melde dich über „Mehr“, „Rückmeldung per E-Mail senden“."
 }
