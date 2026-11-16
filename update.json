@@ -1,15 +1,17 @@
 {
-  "versionCode": 27,
-  "versionName": "1.9.1",
+  "versionCode": 28,
+  "versionName": "1.9.2",
   "apk": "Gipfelzwerg.apk",
-  "sha256": "f34cc78ce349631cfdca21abd194c5ad03d210a91cd5012a027a340f7e8c61e6",
+  "sha256": "8de703ac196e32cee864c4a8416707c4940a3a594f582243036490f20f8b430c",
   "notes": [
-    "Neu: „Meine eigene KI“ unter Einstellungen. Freiwillig und standardmäßig aus – du entscheidest, ob und mit welchem Anbieter du sie nutzt. Wenn du magst, trägt „Sag es der KI“ Einträge für dich ein.",
-    "Neu: Die Wissens- und Beikost-Seiten sind frisch in eigenen Worten formuliert, mit mehr Hilfe zu Allergenen.",
-    "Neu: sicherer Austausch von Daten, verständlichere Hinweise bei falschen Eingaben und überarbeitete Hilfe. Auch die Schalter für Stillen, Flasche, Schlaf usw. haben jetzt ein Fragezeichen.",
-    "Feinschliff: Ladeanzeige der KI und Foto-Feld beim Profilbild sehen jetzt überall sauber aus.",
-    "Deine bisherigen Einträge, Fotos und Einstellungen bleiben erhalten. Die App übernimmt sie beim ersten Start selbst.",
-    "Zum Ausprobieren: Öffne die App nach dem Update und sieh nach, ob alle deine Einträge und Fotos noch da sind. Probiere „Sag es der KI“ aus, wenn du die KI nutzen möchtest, und schau dir die Beikost-Seite an."
+    "Wichtig, einmalig: Wenn die App bei dir den Update-Knopf nicht installieren lässt, öffne die neue Datei einmal selbst und bestätige „Aktualisieren“. Deine Einträge und Fotos bleiben erhalten. Ab dieser Version klappt das Update direkt in der App.",
+    "Behoben: Wenn du von einem sehr alten Stand (1.6.x) aktualisierst, kommen jetzt auch deine Fotos mit, nicht nur die Einträge.",
+    "Behoben: „Auf dem Gerät speichern“ legt die Sicherung im Ordner „Dokumente/Gipfelzwerg“ ab, so wie es in der Hilfe steht.",
+    "Im Rückblick heißt die Kachel jetzt „Temperatur gemessen“, weil sie alle Messungen zählt. Auch auf schmalen Bildschirmen werden Namen nicht mehr mitten im Wort umgebrochen.",
+    "Die Nutzungsbedingungen und die Anleitung sind überarbeitet und passen jetzt genau zur App.",
+    "„Meine eigene KI“ unter Mehr öffnet die KI-App deiner Wahl. Die KI direkt in der App (Einstellungen) ist freiwillig und standardmäßig aus.",
+    "Deine bisherigen Einträge, Fotos und Einstellungen bleiben erhalten.",
+    "Zum Ausprobieren: Öffne Mehr › Rechtliches › Nutzungsbedingungen und sag mir, ob alles verständlich ist. Schau im Rückblick die Kachel „Temperatur gemessen“ an."
   ],
-  "datum": "15.11.2026"
+  "datum": "16.11.2026"
 }
