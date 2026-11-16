@@ -1,17 +1,15 @@
 {
-  "versionCode": 28,
-  "versionName": "1.9.2",
+  "versionCode": 29,
+  "versionName": "1.9.3",
   "apk": "Gipfelzwerg.apk",
-  "sha256": "8de703ac196e32cee864c4a8416707c4940a3a594f582243036490f20f8b430c",
+  "sha256": "0a00858219de61e3e5ddcb820fd71cb2e156655d07a3a73eb2e53114dfd1fada",
   "notes": [
-    "Wichtig, einmalig: Wenn die App bei dir den Update-Knopf nicht installieren lässt, öffne die neue Datei einmal selbst und bestätige „Aktualisieren“. Deine Einträge und Fotos bleiben erhalten. Ab dieser Version klappt das Update direkt in der App.",
-    "Behoben: Wenn du von einem sehr alten Stand (1.6.x) aktualisierst, kommen jetzt auch deine Fotos mit, nicht nur die Einträge.",
-    "Behoben: „Auf dem Gerät speichern“ legt die Sicherung im Ordner „Dokumente/Gipfelzwerg“ ab, so wie es in der Hilfe steht.",
-    "Im Rückblick heißt die Kachel jetzt „Temperatur gemessen“, weil sie alle Messungen zählt. Auch auf schmalen Bildschirmen werden Namen nicht mehr mitten im Wort umgebrochen.",
-    "Die Nutzungsbedingungen und die Anleitung sind überarbeitet und passen jetzt genau zur App.",
-    "„Meine eigene KI“ unter Mehr öffnet die KI-App deiner Wahl. Die KI direkt in der App (Einstellungen) ist freiwillig und standardmäßig aus.",
+    "Beim Eintragen sind die Kacheln in jeder Zeile gleich hoch, und der Timer-Knopf verdeckt keinen Text mehr.",
+    "Auf kleinen Handys und bei großer Schrift passt alles besser auf den Bildschirm. Die Zähne unter „Gipfel“ lassen sich sicherer antippen.",
+    "Auf der Willkommensseite brechen „Datenschutzerklärung“ und „Nutzungsbedingungen“ nicht mehr mitten im Wort um. Bei „Meine eigene KI“ stehen Symbole und Texte in einer Linie.",
+    "In den Einstellungen gibt es bei den Eintragsarten überall ein Fragezeichen mit Hilfe.",
     "Deine bisherigen Einträge, Fotos und Einstellungen bleiben erhalten.",
-    "Zum Ausprobieren: Öffne Mehr › Rechtliches › Nutzungsbedingungen und sag mir, ob alles verständlich ist. Schau im Rückblick die Kachel „Temperatur gemessen“ an."
+    "Zum Ausprobieren: Öffne Heute › Plus und schau, ob alle Kacheln gleich hoch und gut lesbar sind. Probiere es auch mit größerer Schrift und schau unter Gipfel, ob sich die Zähne gut antippen lassen."
   ],
   "datum": "16.11.2026"
 }
