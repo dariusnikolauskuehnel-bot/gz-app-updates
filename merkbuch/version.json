@@ -1,8 +1,8 @@
 {
-  "versionName": "1.8.1",
-  "versionCode": 10,
-  "date": "2026-11-15",
+  "versionName": "1.8.2",
+  "versionCode": 11,
+  "date": "2026-11-16",
   "apk": "https://raw.githubusercontent.com/dariusnikolauskuehnel-bot/gz-app-updates/main/merkbuch/Sigis-Zettel-Sheriff.apk",
-  "apkSha256": "1712cb2bf617c6fb2d70908f1ae0c4f50e610f91209bbf17f63e676f325887f5",
-  "notes": "Kleine Verbesserungen: Der Kalender ist aufgeräumter, und Knöpfe, die doppelt erschienen, gibt es nur noch einmal. Neu seit der letzten Version: Daten übertragen (Google Kalender), Geburtstag von Hand eintragen und Vergangenes (Hochzeitstag, Todestag). Wenn dir etwas fehlt oder nicht gefällt, melde dich über „Mehr“, „Rückmeldung per E-Mail senden“."
+  "apkSha256": "cbfe90d04fe919c59bfb6ea7d919320ee02315c91cc0c001bf00af15e31024a9",
+  "notes": "Die Fragezeichen stehen jetzt auf allen Seiten sauber in einer Reihe untereinander, und die Texte auf den Knöpfen brechen nicht mehr mitten im Wort um. Bei „Meine KI“ brauchst du keinen Schlüssel: du wirst direkt zu deiner eigenen KI weitergeleitet. Die Sprachbefehle werden zuverlässiger erkannt. Wenn dir etwas fehlt oder nicht gefällt, melde dich über „Mehr“, „Rückmeldung an Darius senden“."
 }
